@@ -1,0 +1,12 @@
+#h1{
+    size:100px;
+}
+#hr{
+    color: black;
+}
+#hr2{
+    color: black;
+}
+body {
+    background: linear-gradient(to bottom, #fdfdfd 0%, #ff99cc 100%);
+}
